@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2b",
-  "url": "https://github.com/thomergil/pianoled-firmware/releases/download/v0.1.2b/firmware.bin",
-  "size": 1305280,
-  "sha256": "ee423fc710effa5051bcee5e0446bcdb41b53dc927f0e7e295d8e3fcc2d97ca8",
+  "version": "0.1.2c",
+  "url": "https://github.com/thomergil/pianoled-firmware/releases/download/v0.1.2c/firmware.bin",
+  "size": 1312400,
+  "sha256": "9b7ddfecc74d246654b628951fe4a612a7b3f02f72b03d062665f6325a127d8f",
   "changelog": ""
 }
