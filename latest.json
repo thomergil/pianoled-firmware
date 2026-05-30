@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0e",
-  "url": "https://github.com/thomergil/pianoled-firmware/releases/download/v0.2.0e/firmware.bin",
-  "size": 1246944,
-  "sha256": "f1861c9c902ec18574556313595b60ec747b6d6601a7401e6b08edd4ff0bf61d",
-  "changelog": ""
+  "version": "0.3.0",
+  "url": "https://github.com/thomergil/pianoled-firmware/releases/download/v0.3.0/firmware.bin",
+  "size": 1248032,
+  "sha256": "e5be657d3e33e1da8fc13713342886a7718547ac4889faab89cee73e6876eb4b",
+  "changelog": "Code-quality cleanup (12 sweeps across the firmware) plus three security fixes: tar-upload path traversal, DNS packet out-of-bounds read, and web-UI stored XSS. No user-facing behavior changes."
 }
